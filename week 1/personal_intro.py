@@ -43,7 +43,7 @@ print(f"Your favorite hobby is {hobby}. ")
 print(f"You love eating {favorite_food}. ")
 print(f"Your dream job is to become a {dream_job}. ")
 print(f"Your favorite color is {favorite_color}. ")
-print(f"Your pet information: {pet}. 🐾")
+print(f"Your pet information: {pet}. ")
 
 print("\n✨ Thank you for sharing your details! ✨")
 print("Have a wonderful day! ")
