@@ -1,16 +1,11 @@
 # print("Hello World!") #Day 1 of The Developers Arena Data Science Course
-
 # name = "Vaishnavi" #Day 2 variables and input
 # age = 23
 # name = input("Enter your name: ")
 # age = int(input("Enter your age: "))
-
-
 # print(f"My name is {name}") #Day 3 String formatting and f-strings
 # print(f"My age is {age}")
 
-# Personal Introduction Program
-# Week 1 Internship Task
 
 # Personal Introduction Program
 # Week 1 Internship Task
