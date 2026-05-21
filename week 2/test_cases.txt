@@ -1,0 +1,29 @@
+Test Case 1
+Name:Roshan
+Input Marks: 95
+Expected Grade: A
+
+Test Case 2
+Name:Priya
+Input Marks: 84
+Expected Grade: B
+
+Test Case 3
+Name:Haritha
+Input Marks: 72
+Expected Grade: C
+
+Test Case 4
+Name:Sony
+Input Marks: 65
+Expected Grade: D
+
+Test Case 5
+Name:Saritha
+Input Marks: 40
+Expected Grade: F
+
+Test Case 6
+Name:Vaishnavi
+Input Marks: 120
+Expected Output: Invalid marks message
